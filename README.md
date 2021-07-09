@@ -3,8 +3,8 @@
 ## User Experience (Video Demo)
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./demo/demo-poster-image.png">
-    <source src="./demo/Acebook-demo.mp4" type="video/mp4">
+  <video controls="true" allowfullscreen="true" poster="demo/demo-poster-image.png">
+    <source src="demo/Acebook-demo.mp4" type="video/mp4">
   </video>
 </figure>
 
